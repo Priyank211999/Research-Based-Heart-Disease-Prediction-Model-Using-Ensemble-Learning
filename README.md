@@ -10,4 +10,3 @@ Each algorithm was individually implemented on the dataset and based on the accu
 Ensemble 1 consisting of SVM and NB and Ensemble 2 consisting of LR, RF and XGB were formed, with an accuracy of 91.8% and 88.52% respectively.
 
 Other parameters like “Sensitivity”, “Specificity”, “Positive Predictive Value (PPV)” and “Negative Predictive Value (NPV)” were also evaluated for every model.
-
